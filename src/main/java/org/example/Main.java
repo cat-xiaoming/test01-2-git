@@ -9,6 +9,7 @@ public class Main {
         System.out.println("hot-fix22");
         System.out.println("dev-test01");
         System.out.println("hot-fixtest1");
+        System.out.println("push test1");
 
     }
 }
